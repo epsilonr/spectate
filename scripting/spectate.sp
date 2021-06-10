@@ -17,7 +17,7 @@ ConVar g_MotherZM;
 public Plugin myinfo =
 {
 	name = "[ZR] Spectate",
-	author = "Dot",
+	author = "Nobody333",
 	description = "Spectate a player",
 	version = PLUGIN_VERSION,
 	url = "https://forums.alliedmods.net/showthread.php?p=2749439"
