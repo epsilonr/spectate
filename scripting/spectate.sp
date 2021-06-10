@@ -20,7 +20,7 @@ public Plugin myinfo =
 	author = "Dot",
 	description = "Spectate a player",
 	version = PLUGIN_VERSION,
-	url = "https://steamcommunity.com/profiles/76561198309046124/"
+	url = "https://forums.alliedmods.net/showthread.php?p=2749439"
 }
 
 public void OnPluginStart()
