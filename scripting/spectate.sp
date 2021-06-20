@@ -66,7 +66,6 @@ public Action Command_Spec(int client, int args)
 
 	if(GetAliveTeamCount(client) == 1)
 	{
-		ForcePlayerSuicide(client);
 		PrintToChat(client, " \x04[SPEC]\x01 Last player can't become spectator.");
 		return Plugin_Handled;
 	}
